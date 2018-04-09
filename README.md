@@ -1,22 +1,64 @@
-Taller de Bioinformatica y Analysis de Datos con R
+# Bioinformatics and Data Analysis workshop
 
-Dia 1.
-Introduccion
+# Day 1
 
-+ ¿Por que bioinformatica?
+## Why Bioinformatics?
 
-Objetivo:  Pequeña introduccion sobre importancia de la bioinformatica en la biologia moderna y argumentar porque como agro-genomicos tenemos que ser buenos bioinfomaticos.
+Presentation to the students to show the advantage on choosing computational biology over exeperimental biology
 
-tiempo estimado: 30 (min)
+Duration: .5 hrs
 
-Introduccion a R y Rstudio
+## Introduccion a R
 
 Objectivo: Familiarizacion con el lenguaje R
-Cosas basicas sobre el lenguaje R:
- + Estructuras de datos en R
- + Vectores
- + Listas
- + 
+
+### Cosas basicas sobre el lenguaje R:
+ + Data Structures in R
+ * Vectors
+ * Lists
+ * Funcions
+
+Duration: 1.5 hrs
+ 
+### The tidyverse world
+ * Manejo de datos tabulares con `tibbles`
+ * data wrangling: combinar tablas, crear columnas, transformar tablas, operaciones por grupos
+ * Functional Programming with `purr`
+ * Introduction to `ggplot2`
+
+Duration: 2.00 hrs
+
+# Day 2
+
+### Data Visualization
+
+Objetivo: Mostrar como realizar los tipos de graficas mas comunes con ggplot2
+
+ * How to plot data in ggplot?
+ * Visualizing Distributions: box-plot, histograms, densities.
+ * Visualizing Relations: scatter plots
+ * How to modify the spects of a plot?
+  + Colors
+  + Transparency of points
+  + Adding information, adding text to a plot
+  + Manipuling scales
+  + Themes
+ * Comparisons, Faceting in ggplot2
+
+Duration: 3.0 hrs
+
+### A Reproducible Research Workflow
+
+* Organizing a Computational Project
+* Keeping Track of Things
+* Introduction to git
+
+Duration: 1.5 hrs
+
+
+
+
+
 
  
 tiempo estimado: 30 (min)
