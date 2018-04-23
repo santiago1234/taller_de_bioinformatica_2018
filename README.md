@@ -1,78 +1,61 @@
-# Bioinformatics and Data Analysis workshop
+# Taller de Bioinformática y Análisis de Datos 2018
 
-# Day 1
+Objetivo: El objetivo de este taller es aprender las herramientas existentes en 
+el lenguaje Python para el análisis de datos
 
-## Why Bioinformatics?
+![](bioinformatician.jpg)
 
-Presentation to the students to show the advantage on choosing computational biology over exeperimental biology
+## Introducción a Python
 
-Duration: .5 hrs
+*lab 1*
 
-## Introduccion a R
++ Uso de jupyter notebook para interactuar con Python y crear reportes reproducibles
+ * Celdas de código
+ * Celdas Markdown
+ * Comandos mágicos
 
-Objectivo: Familiarizacion con el lenguaje R
++ Variables y estructuras de datos en Python
+ * Tipos de datos
+ * listas
+ * diccionarios
 
-### Cosas basicas sobre el lenguaje R:
- + Data Structures in R
- * Vectors
- * Lists
- * Funcions
-
-Duration: 1.5 hrs
- 
-### The tidyverse world
- * Manejo de datos tabulares con `tibbles`
- * data wrangling: combinar tablas, crear columnas, transformar tablas, operaciones por grupos
- * Functional Programming with `purr`
- * Introduction to `ggplot2`
-
-Duration: 2.00 hrs
-
-# Day 2
-
-### Data Visualization
-
-Objetivo: Mostrar como realizar los tipos de graficas mas comunes con ggplot2
-
- * How to plot data in ggplot?
- * Visualizing Distributions: box-plot, histograms, densities.
- * Visualizing Relations: scatter plots
- * How to modify the spects of a plot?
-  + Colors
-  + Transparency of points
-  + Adding information, adding text to a plot
-  + Manipuling scales
-  + Themes
- * Comparisons, Faceting in ggplot2
-
-Duration: 3.0 hrs
-
-### A Reproducible Research Workflow
-
-* Organizing a Computational Project
-* Keeping Track of Things
-* Introduction to git
-
-Duration: 1.5 hrs
-
-
-
-
-
-
- 
-tiempo estimado: 30 (min)
-
-
-Analysis de Datos en R
-
-En esta seccion se planea introducion la librerias mas usada que facilitan el analysis y manipulacion de datos en R (tidyverse)
-
-Duracion: 1hr
++ Expresiones en Python
+ * Declaraciones condicionales, if, else, elif
+ * list comprehension 
+ * funciones
+ * funciones anónimas
 
 Practica
 
-En la parte final se realizaran una serie de problemas que pondran a prueba los conocimientos que se hayan adquirido en el dia uno.
-Duracion 2hr
+## Python para Científicos
 
+*lab 2*
+
++ Introducción a las librerías científicas 
+ * manejo de arreglos y matrices `numpy`
+ * Computo científico con `SciPy`
+ * manejo de datos tabulares `pandas`
+ * Visualizando datos con `matplotlib`
+
+Practica
+
+## Estadística en Python
+
+*lab 3*
+
++ Análisis estadístico con `statsmodels`
++ Algunas distribuciones estadísticas
++ Regresión lineal
++ Comparando la media de dos poblaciones
++ Análisis de componentes: PCA
+
+Practica: Visualizando datos de RNA-seq con análisis de componentes principales.
+
+
+## Investigación Reproducible
+
+*lab 4*
+
+* Cómo organizar un proyecto computacional?
+* Introducción a git (control de versiones)
 
