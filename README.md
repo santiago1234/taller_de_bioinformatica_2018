@@ -3,7 +3,7 @@
 Objetivo: El objetivo de este taller es aprender las herramientas existentes en 
 el lenguaje Python para el análisis de datos
 
-![](bioinformatician.jpg)
+![](image/bioinformatician.jpg)
 
 ## Introducción a Python
 
